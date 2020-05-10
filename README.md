@@ -1,18 +1,3 @@
-# sortingalgorithms_visualizer
+#Sorting Visualizer
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-![alt text](https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg)
+This app visualizes different sorting algorithms like bubble, insertion, selection, merge, quick sort etc in order to get intuitive understanding of how sorting really happen. Features like speed control, choosing the no of tiles etc. in order to get a bit more understanding about the algorithm.
